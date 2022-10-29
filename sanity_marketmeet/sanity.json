@@ -1,11 +1,11 @@
 {
   "root": true,
-  "project": {
-    "name": "marketmeet"
-  },
   "api": {
     "projectId": "p1fu5xqw",
     "dataset": "production"
+  },
+  "project": {
+    "name": "marketmeet"
   },
   "plugins": [
     "@sanity/base",
