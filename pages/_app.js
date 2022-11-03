@@ -6,7 +6,7 @@ import {Toaster} from 'react-hot-toast'
 function MyApp({ Component, pageProps }) {
   return (
     <StateContext>
-      <Layout>sadsafsdad
+      <Layout>
         <Toaster/>
         <Component {...pageProps} />
       </Layout>
